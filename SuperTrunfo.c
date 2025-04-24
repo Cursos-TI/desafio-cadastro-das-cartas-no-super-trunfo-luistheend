@@ -9,6 +9,7 @@ int main(){
     int populacao = 25034000;
     float area = 2405.33;
     float pib = 500.30;
+    int turisticos = 45;
 
 
 
