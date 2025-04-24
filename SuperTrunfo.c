@@ -7,6 +7,7 @@ int main(){
     char codigo [50] = "A01";
     char nome [20] = "araraquara";
     int populacao = 25034000;
+    float area = 2405.33;
 
 
 
