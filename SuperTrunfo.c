@@ -6,6 +6,7 @@ int main(){
     char estado = 'A';
     char codigo [50] = "A01";
     char nome [20] = "araraquara";
+    int populacao = 25034000;
 
 
 
